@@ -1,3 +1,5 @@
+#Django_protofc actiuni amenricane
+
 from django.shortcuts import render, redirect
 from .models import Stock
 from .forms import StockForm
